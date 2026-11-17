@@ -1,0 +1,7 @@
+Se evaluaron 1715 imágenes de test depurado de 23 clases (test histórico: 2033).
+CNN: accuracy=0.7977; F1 macro=0.7407.
+MHA: accuracy=0.6723; F1 macro=0.6145.
+Diferencia MHA − CNN: accuracy -12.54 puntos porcentuales; F1 macro -12.63 puntos.
+Mayor F1 macro en esta ejecución: CNN.
+Una sola semilla y dos arquitecturas distintas no permiten atribuir toda diferencia a la atención ni afirmar superioridad general. Conviene repetir con varias semillas y comparar una CNN con y sin atención para aislar su efecto.
+La correspondencia con el test histórico de la CNN supone que el dataset no cambió.

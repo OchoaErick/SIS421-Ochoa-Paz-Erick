@@ -1,0 +1,24 @@
+﻿,Abeja,Abeja Malifera (Apis),Abejorro (Bombus),Avispa,Chinche,Chinche rayada,Escarabajo,Escarabajo floricola (Oedem),Hormiga,Lepidóptero (Mariposa-Polilla),Mariquita,Mosca,Mosca cernidora (Episyrphus),Mosca cernidora (Eristalis),Mosca cernidora (Eupeodes),Mosca cernidora (Myathropa),Mosca cernidora (Sphaerophoria),Mosca cernidora (Syrphus),Mosca danzante (Empididae),Mosca de la carne (Sarcophagidae),Mosca escorpión,Mosca pequeña,other
+Abeja,79,0,0,0,3,0,0,2,2,0,0,7,0,0,2,0,0,0,0,0,0,6,5
+Abeja Malifera (Apis),0,7,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+Abejorro (Bombus),2,2,113,0,0,0,0,0,0,0,0,1,0,7,0,0,0,0,0,0,1,0,0
+Avispa,0,1,0,39,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Chinche,1,0,0,0,29,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1
+Chinche rayada,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Escarabajo,4,0,0,0,5,0,17,1,0,0,2,0,0,0,0,0,0,0,0,0,0,6,3
+Escarabajo floricola (Oedem),0,0,0,0,0,0,0,6,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1
+Hormiga,0,0,0,0,2,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,11,5
+Lepidóptero (Mariposa-Polilla),0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mariquita,1,0,0,0,1,0,1,0,0,0,73,0,0,0,1,0,0,0,0,0,0,0,1
+Mosca,20,0,0,0,4,0,2,10,0,3,0,115,3,0,1,0,2,0,0,2,0,3,7
+Mosca cernidora (Episyrphus),7,1,0,3,7,0,1,0,0,8,0,8,206,1,5,0,1,0,0,0,0,1,3
+Mosca cernidora (Eristalis),2,2,0,0,1,0,0,0,0,3,0,2,0,185,0,1,0,0,0,0,0,0,0
+Mosca cernidora (Eupeodes),3,2,0,0,6,0,0,0,0,1,0,2,7,0,107,1,2,1,1,0,0,1,2
+Mosca cernidora (Myathropa),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0
+Mosca cernidora (Sphaerophoria),0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0
+Mosca cernidora (Syrphus),1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,35,0,0,0,0,0
+Mosca danzante (Empididae),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0
+Mosca de la carne (Sarcophagidae),1,0,0,0,1,0,0,0,0,1,0,4,0,0,0,0,0,0,0,14,0,1,1
+Mosca escorpión,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+Mosca pequeña,9,0,0,0,2,0,3,5,4,0,0,13,0,0,1,0,1,0,1,0,0,111,16
+other,9,0,0,0,0,0,3,4,3,2,0,0,0,0,3,0,0,0,2,1,0,4,23
